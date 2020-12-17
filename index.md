@@ -9,6 +9,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# IT as a Service für Banken
 
 Software+ ist Spezialist für Softwareentwicklung im Finanzbereich. Wir fokussieren uns auf die Planung, Entwicklung und Betreuung von, Web-, Mobile-, Desktop und Server-Applikationen.

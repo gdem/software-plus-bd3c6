@@ -35,3 +35,5 @@ sass:
 plugins:
   - jekyll-environment-variables
 url: ''
+footer:
+  copyright_text: lorem-ipsum
